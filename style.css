@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #232323;
+}
+
+h1 {
+    font-family: georgia;
+    color: white;
+    text-align: center;
+}
+
+input {
+    height: 25px;
+    width: 26%;
+    margin: 0 36%;
+    border: 1px solid  #232323;
+    border-radius: 3px;
+    padding: 2px 10px;
+}
+
+div {
+    height: 60px;
+    width: 28%;
+    margin: 0 36%;
+    border-radius: 3px;
+}
+
+h3 {
+    color: white;
+    padding-left: 10px;
+}
+
+p {
+    color: white;
+    padding-left: 10px;
+}
+
+#convertedGrams {
+    background: rgb(0, 0, 255, .9);
+}
+
+#convertedKiloGrams {
+    background: rgb(0, 255, 0, .7)
+}
+
+#convertedOunces {
+    background: rgb(255, 0, 0, .5)
+}
+
+.hide {
+    display: none;
+}
